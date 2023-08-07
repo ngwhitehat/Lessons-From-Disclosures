@@ -1,5 +1,6 @@
 # 1B-50 | FROM TRASH TO TREASURE
 ![](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/dumpster-dive.jpg)
+
 We cannot emphasise how much sensitive information can be left on paper when we dispose of used printed materials. That is why it is advisable for organizations to do proper thrash management of paper documents as sensitive information could be exposed to threat actors through a social engineering technique named dumpster driving.
 
 In this research, our team reached out to use this technique and, in the process, we laid our hands on some sensitive information pointing out weaknesses in the 1B-50 digital asset. In the case of 1B-50, they have done their best to keep the sensitive information on the paper out of sight for non-technical individuals, but technical people can easily decipher what they are hiding.
