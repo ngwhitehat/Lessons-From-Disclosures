@@ -1,0 +1,3 @@
+# 1A - FLAWS EXPOSING USERS' DATA FIXED
+
+It was in the wake of the Whitehat Nigeria Campaign, we were building up the idea behind this movement and many things have started jumping to our heads on where to start from. We reached out to people in the need to know if they have received any emails of recent (specifically in the last five months), that seems to be unusual or may contain out of place information. A very large number of emails started trooping in and our team started conducting their analysis on them by drawing the T’s and dot the I’s. In the process, we found an interesting email from 1A which got forwarded by tens of people from our research dataset.
