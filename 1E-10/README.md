@@ -1,4 +1,4 @@
-# 1E-10 Directory Traversal Vulnerability
+# 1E-10 Directory Traversal Vulnerability Exposes over 10K PII
 
 Sometime last year, an MSSP (Managed Security Service Provider) conducted a routine security check and discovered a directory traversal vulnerability. This vulnerability had the potential to expose sensitive data, which could lead to serious consequences if not addressed promptly.
 ![](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/dtv.png)
