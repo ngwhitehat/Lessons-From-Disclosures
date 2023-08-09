@@ -18,4 +18,5 @@ Our second hypothesis confirms that secure code review didn’t take place befor
 
 At this point, the need to notify 1A of our findings becomes top priority for our team. We documented our findings including technical recommendations with a letter and sent it to 1A for them to review all affected areas. It took them a couple of days to fix all issues and get back to our team. We are glad we did help them turn this information into actionable intelligence. Share it with others so they can learn from it.
 
-On the part of 1A, they have succeeded in collecting data from Nigerians but they have failed in ensuring it is protection as stated by the NDPR. Login credentials (passwords to be precise) of thousands of affected users that registered with 1A were sent back to the users in plaintext. With the help of the Whitehat.NG Team, we have helped change the story of 1A.
+On the part of 1A, they have succeeded in collecting data from Nigerians but they have failed in ensuring it is protection as stated by the NDPA. Login credentials (passwords to be precise) of thousands of affected users that registered with 1A were sent back to the users in plaintext. With the help of the Whitehat.NG Team, we have helped change the story of 1A.
+
