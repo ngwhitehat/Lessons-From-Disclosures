@@ -5,6 +5,6 @@ Referencing the same tweet, our team was able to download and analyse further al
 ![](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/1d-90-1.png)
 
  ![](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/1d-90-2.png)
-Sensitive information is highlighted on one of the Images.
+Sensitive information is highlighted on one of the Images above.
 
 At the point of notification, we recommend that 1D-90 should change the exposed username, as well as restrict access to the platform over the Internet while subsequently, they ensure the photographer team should resist taking pictures in security facilities, and if it becomes so necessary, then let it be taken by security conscious person and be vetted before posting on social platforms
